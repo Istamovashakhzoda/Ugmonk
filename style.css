@@ -331,10 +331,348 @@
 }
 
 .bacpic{
-background-image: url(./asests/mainimg.png);
+background-image: url(./asests/Rectangle\ \(22\).png);
 background-position: center;
 background-repeat: no-repeat;
 background-size: 100% 600px;
 width: 100%;
 height: 600px;
 margin-top: 150px;}
+
+.inf{
+    padding-top: 210px;
+    padding-left: 100px;
+}
+
+.inf h1{
+    color: #F7F7F7;
+    font-family: Roboto;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 54px; /* 154.286% */
+}
+
+.firstbtn{
+    width: 182px;
+    height: 40px;
+    flex-shrink: 0;
+    border: 1px solid #7E6E45;
+    background: #7E6E45;
+    color: #F7F7F7;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    margin-top: 30px;
+    font-weight: 400;
+    line-height: 40px; /* 266.667% */
+}
+
+.nexbutn{
+    color: #F7F7F7;
+    font-family: Roboto;
+    font-size: 15px;
+    background-color: transparent;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22.5px; /* 150% */
+    border: none;
+    border-bottom: 1px solid white;
+    margin-top: 30px;
+}
+
+.blackk{
+    width: 100%;
+    height: 680px;
+    background-color: #1A1A1A;
+    padding-top: 130px;
+}
+
+.inblack{
+    display: flex;
+    background-color: white;
+    align-items: center;
+    width: 75%;
+    height: 450px;
+}
+
+.leftinfor h1{
+    color: #1A1A1A;
+    font-family: Roboto;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45.6px; /* 120% */
+}
+
+.leftinfor p{
+    color: #1A1A1A;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    margin-top: 30px;
+    font-weight: 400;
+    line-height: 21px; /* 140% */
+}
+
+.leftinfor button{
+    color: #1A1A1A;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    background-color: transparent;
+    line-height: 21px; /* 150% */
+    border: none;
+    margin-top: 30px;
+    border-bottom: 1px solid black;
+}
+
+.rightpict img{
+    width: 784px;
+    margin-right: -84px;
+    height: 450px;
+    margin-top: 3px;
+}
+
+.alone{
+    color: #1A1A1A;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px; /* 120% */
+    margin: 90px 0px;
+}
+
+.maingender{
+     display: flex;
+     /* justify-content: space-between; */
+     justify-content: center;
+     width: 80%;
+}
+
+.men img{
+    width: 522px;
+    height: 647px;
+    flex-shrink: 0;
+}
+
+.men button{
+    color: #1A1A1A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    background-color: transparent;
+    line-height: 24px; /* 150% */
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 30px;
+}
+
+.women img{
+    width: 522px;
+    height: 647px;
+    flex-shrink: 0;
+}
+
+.women button{
+    color: #1A1A1A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    border: none;
+    background-color: transparent;
+    margin-top: 30px;
+    border-bottom: 1px solid black;
+}
+
+.object{
+   margin-left: 180px;
+   margin-top: 90px;
+}
+
+.object img{
+    width: 1160px;
+    height: 657px;
+    flex-shrink: 0;
+}
+
+.object button{
+    color: #1A1A1A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 150% */
+    border: none;
+    background-color: transparent;
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+}
+
+.boy{
+    background-image: url(./asests/Rectangle\ \(27\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 600px;
+    width: 100%;
+    height: 600px;
+    margin-top: 150px;
+}
+
+.inboy{
+    text-align: center;
+    padding-top: 240px;
+}
+
+.inboy h1{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 54px; /* 154.286% */
+}
+
+.inboy button{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22.5px; /* 150% */
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+}
+
+.stay{
+    width:100%;
+    height: 473px;
+    flex-shrink: 0;
+    background: #CED3CA;
+}
+
+.space{
+    padding-top: 100px;
+}
+
+.space h2{
+    color: #1A1A1A;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40.8px; /* 120% */
+}
+
+.space p{
+    color: #1A1A1A;
+    text-align: center;
+    font-family: Roboto;
+    margin-top: 30px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22.4px; /* 140% */
+}
+
+.butns{
+    width: 28%;
+    margin-top: 30px;
+}
+
+.firspace{
+    width: 338px;
+    height: 48px;
+    flex-shrink: 0;
+    border: 1px solid #242424;
+    background: #FFF;
+}
+
+.seconspace{
+    width: 66px;
+    height: 48px;
+    flex-shrink: 0;
+    border: 1px solid #242424;
+    background-color: #FFF;
+}
+
+.foter{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 90px;
+    margin-bottom: 110px;
+}
+
+.lefflex{
+    display: flex;
+    width: 55%;
+    margin-left: -60px;
+}
+
+.navleft ul{
+    list-style: none;
+    line-height: 36px;
+}
+
+.navleft li a{
+    color: #1A1A1A;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 18px; /* 120% */
+}
+
+.navright ul{
+    list-style: none;
+    line-height: 36px;
+}
+
+.navright li a{
+    color: #1A1A1A;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 18px; /* 120% */
+}
+
+.mor{
+    width: 20%;
+}
+
+.rightflex{
+    display: flex;
+}
+
+.logimg p{
+    color: #1A1A1A;
+    text-align: right;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 140% */
+}
+
+.umg img{
+    width: 42px;
+    height: 78px;
+    flex-shrink: 0;
+}
+
+.fram{
+    margin-top: 70px;
+    margin-right: 30px;
+}
