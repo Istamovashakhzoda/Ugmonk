@@ -329,3 +329,12 @@
     border: none;
     transition:all 2s;
 }
+
+.bacpic{
+background-image: url(./asests/mainimg.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: 100% 600px;
+width: 100%;
+height: 600px;
+margin-top: 150px;}
